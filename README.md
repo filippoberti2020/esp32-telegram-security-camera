@@ -23,7 +23,7 @@ This project aims to provide a secure alternative to commercial security cameras
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Telegram-Security-Camera.git
+    git clone https://github.com/filippoberti2020/esp32-telegram-security-camera.git
     ```
 
 2. Configure the necessary settings in the code, including your Telegram bot token.
