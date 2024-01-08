@@ -44,6 +44,17 @@ This project aims to provide a secure alternative to commercial security cameras
 // ... (other configuration options)
 ```
 
+## Obtain your Telegram User ID and Bot Token:
+
+### Telegram User ID:
+
+In your Telegram account, search for "IDBot" or open [this link](https://t.me/myidbot) on your smartphone. Start a conversation with the bot and type `/getid`. You will receive a reply back with your user ID. Save that user ID, as you'll need it later in this tutorial.
+
+### Telegram Bot Token:
+
+Open Telegram and follow these steps to create a Telegram Bot. First, search for "botfather" and click on BotFather. Or open [this link](https://t.me/botfather) on your smartphone. Type `/newbot` and follow the instructions to create your bot, giving it a name and username. Once created, you'll receive a message with a link to access the bot and the bot token. Save the bot token, as it will be used for ESP32 interaction with the bot.
+
+
 ## Contributing
 
 If you'd like to contribute or have suggestions, feel free to open an issue or submit a pull request.
