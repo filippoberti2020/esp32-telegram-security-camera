@@ -2,6 +2,9 @@
 
 Welcome to the Telegram Security Camera project, utilizing the ESP32 Lilygo T-Camera to create a DIY security camera solution with enhanced privacy and trust. This project employs the built-in motion sensor of the ESP32 T-Camera to detect motion and promptly sends a photo notification to your Telegram bot.
 
+![Alt text](https://img.addel.hu/termekfotok/348/fhdfotok/lilygo_t-camera_esp32-wrover-b_camera_modul_v1.7_1jhc9j.jpg)
+
+
 ## Overview
 
 This project aims to provide a secure alternative to commercial security cameras, offering users the ability to build their own surveillance system with increased privacy. By using the ESP32 Lilygo T-Camera and leveraging its motion sensor capabilities, you can receive instant alerts on your Telegram app whenever motion is detected.
